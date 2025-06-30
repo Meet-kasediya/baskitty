@@ -9,7 +9,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 
 
-# 🛒 Baskitty - Online Grocery Store (<a href='https://baskitty.up.railway.app/'>L I V E</a>)
+# 🛒 Baskitty - Online Grocery Store (<a href='https://baskitty.netlify.app/'>L I V E</a>)
 
 Baskitty is a beautifully designed, responsive online grocery store built with **React** and **TypeScript**. It offers a smooth shopping experience with features like category filtering, pagination, a persistent cart, and toast notifications. Whether you're after fresh fruits or veggies, Baskitty makes it simple and delightful!
 
